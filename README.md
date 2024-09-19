@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-##### Je m'appele Maxime, j'ai 19 ans
+##### --> Je m'appele Maxime, j'ai 19 ans
+
 
 - 🔭 Je travail actuellement en université pour un BUT
 - 🌱 J'apprend notamment du Java, Python, SQL et PHP
