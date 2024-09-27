@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-##### --> Je m'appele Maxime, j'ai 19 ans
+##### --> My name is Maxime
 
 
 - 🔭 I work on Pokedex Project
