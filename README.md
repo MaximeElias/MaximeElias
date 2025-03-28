@@ -3,10 +3,9 @@
 ##### --> My name is Maxime
 
 
-- 🔭 I work on Pokedex Project
+- 🔭 I work on App Manga project
 - 🌱 I learn Java, Python, SQL and PHP
 - 📫 Contact me by mail
-- ⚡ Fun fact: I am funny
 
 
 ## 💻 Application Development :
